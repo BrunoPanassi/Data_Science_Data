@@ -1,7 +1,7 @@
 # Data_Science_Data
 Data about Data Science
 
-Top 5 Data Science Publications You Should Read In 2018
+Top 5 Data Science Publications You Should Read In 2018</br>
 https://blog.udacity.com/2018/01/top-5-data-science-publications.html
 
 Awesome Data Science
