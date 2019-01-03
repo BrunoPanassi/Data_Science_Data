@@ -21,3 +21,6 @@ https://br.udacity.com/course/deep-learning--ud730
 
 Data Science Academy</br>
 https://www.datascienceacademy.com.br/
+
+A Comprehensive Learning Path for Deep Learning in 2019</br>
+https://www.analyticsvidhya.com/blog/2019/01/comprehensive-learning-path-deep-learning-2019/
