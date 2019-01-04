@@ -24,3 +24,6 @@ https://www.datascienceacademy.com.br/
 
 A Comprehensive Learning Path for Deep Learning in 2019</br>
 https://www.analyticsvidhya.com/blog/2019/01/comprehensive-learning-path-deep-learning-2019/
+
+Repositório sobre TensorFlow</br>
+https://wesinalves.github.io/tensorflow/2018/09/13/instalacao-windows.html
