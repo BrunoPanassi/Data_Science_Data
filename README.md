@@ -27,3 +27,9 @@ https://www.analyticsvidhya.com/blog/2019/01/comprehensive-learning-path-deep-le
 
 Repositório sobre TensorFlow</br>
 https://wesinalves.github.io/tensorflow/2018/09/13/instalacao-windows.html
+
+Livro "Deep Learning with Python" de François Chollet</br>
+http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf
+
+Repositório com anotações com código do livro "Deep Learning with Python"</br>
+https://github.com/fchollet/deep-learning-with-python-notebooks
