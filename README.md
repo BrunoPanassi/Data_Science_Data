@@ -33,3 +33,9 @@ http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf
 
 Repositório com anotações com código do livro "Deep Learning with Python"</br>
 https://github.com/fchollet/deep-learning-with-python-notebooks
+
+The real-world potential and limitations of artificial intelligence</br>
+https://www.mckinsey.com/featured-insights/artificial-intelligence/the-real-world-potential-and-limitations-of-artificial-intelligence
+
+AI adoption advances, but foundational barriers remain</br>
+https://www.mckinsey.com/featured-insights/artificial-intelligence/ai-adoption-advances-but-foundational-barriers-remain
