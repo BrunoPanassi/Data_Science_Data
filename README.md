@@ -39,3 +39,9 @@ https://www.mckinsey.com/featured-insights/artificial-intelligence/the-real-worl
 
 AI adoption advances, but foundational barriers remain</br>
 https://www.mckinsey.com/featured-insights/artificial-intelligence/ai-adoption-advances-but-foundational-barriers-remain
+
+Artificial intelligence and machine learning adoption in European enterprise</br>
+https://www.oreilly.com/ideas/artificial-intelligence-and-machine-learning-adoption-in-european-enterprise
+
+Farewell, deep learning?</br>
+https://mode.com/resources/analytics-dispatch/2019-02-11/
