@@ -17,6 +17,12 @@ https://www.oreilly.com/ideas/artificial-intelligence-and-machine-learning-adopt
 Farewell, deep learning?</br>
 https://mode.com/resources/analytics-dispatch/2019-02-11/
 
+How artificial intelligence can deliver real value to companies<br>
+https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/how-artificial-intelligence-can-deliver-real-value-to-companies
+
+What AI can and can’t do (yet) for your business<br>
+https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business
+
 ### Repositores
 Awesome Data Science</br>
 https://github.com/bulutyazilim/awesome-datascience
