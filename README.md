@@ -57,3 +57,6 @@ https://www.analyticsvidhya.com/blog/2019/01/comprehensive-learning-path-deep-le
 Livro "Deep Learning with Python" de François Chollet</br>
 http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf
 
+Deep Learning Book</br>
+http://deeplearningbook.com.br/
+
