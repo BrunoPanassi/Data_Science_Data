@@ -60,3 +60,14 @@ http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf
 Deep Learning Book</br>
 http://deeplearningbook.com.br/
 
+### Data
+How to Get Annotated Data for Machine Learning</br>
+https://lionbridge.ai/articles/how-to-get-annotated-data-for-machine-learning/
+
+Data World</br>
+https://data.world/
+
+14 Free Agriculture Datasets for Machine Learning</br>
+https://lionbridge.ai/datasets/14-free-agriculture-datasets-for-machine-learning/
+
+
